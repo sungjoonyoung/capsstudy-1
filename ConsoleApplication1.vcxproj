@@ -29,6 +29,7 @@
     <ClCompile Include="caps 4.c" />
     <ClCompile Include="hw1 me 1.c" />
     <ClCompile Include="hw3-1 me.c" />
+    <ClCompile Include="team.c" />
     <ClCompile Include="과제\2\hw2-1.c" />
     <ClCompile Include="과제\2\hw2-2.c" />
     <ClCompile Include="과제\2\hw2-3.c" />

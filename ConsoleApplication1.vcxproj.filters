@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\4">
       <UniqueIdentifier>{2e0341b8-0f07-4af9-ab8e-a171bb399380}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\team">
+      <UniqueIdentifier>{dfec5bf8-501f-4324-b167-a7d737086da6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="caps 2.c">
@@ -86,6 +89,9 @@
     </ClCompile>
     <ClCompile Include="hw1 me 1.c">
       <Filter>소스 파일\4</Filter>
+    </ClCompile>
+    <ClCompile Include="team.c">
+      <Filter>소스 파일\team</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
