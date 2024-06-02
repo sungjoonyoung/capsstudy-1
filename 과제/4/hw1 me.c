@@ -13,7 +13,7 @@
 //#include <stdio.h>
 //#include <stdlib.h>
 //#include <time.h>
-//#define _CRT_SECURE_NO_WARNINGS
+//#define _crt_secure_no_warnings
 //
 //int lotto[6] = { 0 };
 //
@@ -21,7 +21,7 @@
 //void mix(int, int);
 //
 //int main(void) {
-//    srand((unsigned)time(NULL));
+//    srand((unsigned)time(null));
 //    
 //    for (int i = 0; i < 6; i++) {
 //        int cash = 1;

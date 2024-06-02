@@ -19,27 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\과제\1\hw-1.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\과제\1\hw-2.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\과제\1\hw-3.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\과제\1\hw-4.c" />
+    <ClCompile Include="1.c" />
     <ClCompile Include="caps 1.c" />
     <ClCompile Include="caps 2.c" />
     <ClCompile Include="caps 3.c" />
     <ClCompile Include="caps 4.c" />
-    <ClCompile Include="hw1 me 1.c" />
-    <ClCompile Include="hw3-1 me.c" />
+    <ClCompile Include="caps 5.c" />
+    <ClCompile Include="caps6.c" />
     <ClCompile Include="team.c" />
-    <ClCompile Include="과제\2\hw2-1.c" />
-    <ClCompile Include="과제\2\hw2-2.c" />
-    <ClCompile Include="과제\2\hw2-3.c" />
-    <ClCompile Include="과제\3\hw3-1.c" />
-    <ClCompile Include="과제\3\hw3-2.c" />
-    <ClCompile Include="과제\3\hw3-3.c" />
-    <ClCompile Include="과제\4\hw1 me.c" />
-    <ClCompile Include="과제\4\hw1.c" />
-    <ClCompile Include="과제\4\hw2 me.c" />
-    <ClCompile Include="과제\4\hw2.c" />
+    <ClCompile Include="teamme.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
@@ -126,7 +114,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNINGS;</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>

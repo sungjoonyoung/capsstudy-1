@@ -13,20 +13,11 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\2">
-      <UniqueIdentifier>{61ea3158-fe56-4170-b86c-4830639c8119}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\3">
-      <UniqueIdentifier>{10d9f0f7-3882-4c18-87df-652e31f7cf6f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\1">
-      <UniqueIdentifier>{f520e22d-20c8-406e-b804-e2ce9c88cf5a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\4">
-      <UniqueIdentifier>{2e0341b8-0f07-4af9-ab8e-a171bb399380}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\team">
       <UniqueIdentifier>{dfec5bf8-501f-4324-b167-a7d737086da6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="123">
+      <UniqueIdentifier>{6770de38-6e2a-43c4-bb2f-5ea464e9a6b4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -39,58 +30,22 @@
     <ClCompile Include="caps 1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="과제\2\hw2-1.c">
-      <Filter>소스 파일\2</Filter>
-    </ClCompile>
-    <ClCompile Include="과제\2\hw2-2.c">
-      <Filter>소스 파일\2</Filter>
-    </ClCompile>
-    <ClCompile Include="과제\2\hw2-3.c">
-      <Filter>소스 파일\2</Filter>
-    </ClCompile>
-    <ClCompile Include="과제\3\hw3-1.c">
-      <Filter>소스 파일\3</Filter>
-    </ClCompile>
-    <ClCompile Include="과제\3\hw3-2.c">
-      <Filter>소스 파일\3</Filter>
-    </ClCompile>
-    <ClCompile Include="과제\3\hw3-3.c">
-      <Filter>소스 파일\3</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\과제\1\hw-1.c">
-      <Filter>소스 파일\1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\과제\1\hw-2.c">
-      <Filter>소스 파일\1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\과제\1\hw-3.c">
-      <Filter>소스 파일\1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\과제\1\hw-4.c">
-      <Filter>소스 파일\1</Filter>
-    </ClCompile>
-    <ClCompile Include="hw3-1 me.c">
-      <Filter>소스 파일\3</Filter>
-    </ClCompile>
     <ClCompile Include="caps 4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="과제\4\hw1.c">
-      <Filter>소스 파일\4</Filter>
-    </ClCompile>
-    <ClCompile Include="과제\4\hw2.c">
-      <Filter>소스 파일\4</Filter>
-    </ClCompile>
-    <ClCompile Include="과제\4\hw2 me.c">
-      <Filter>소스 파일\4</Filter>
-    </ClCompile>
-    <ClCompile Include="과제\4\hw1 me.c">
-      <Filter>소스 파일\4</Filter>
-    </ClCompile>
-    <ClCompile Include="hw1 me 1.c">
-      <Filter>소스 파일\4</Filter>
-    </ClCompile>
     <ClCompile Include="team.c">
+      <Filter>소스 파일\team</Filter>
+    </ClCompile>
+    <ClCompile Include="caps 5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="teamme.c">
+      <Filter>소스 파일\team</Filter>
+    </ClCompile>
+    <ClCompile Include="caps6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.c">
       <Filter>소스 파일\team</Filter>
     </ClCompile>
   </ItemGroup>
